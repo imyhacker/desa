@@ -117,7 +117,7 @@
 <body>
     <div class="login-form">
         <form action="<?php echo base_url('auth'); ?>" method="post">
-            <center><img src="<?= base_url('assets/'); ?>img/logo.png"></center>
+            <!-- <center><img src="<?= base_url('assets/'); ?>img/logo.png"></center> -->
             <?php echo $this->session->flashdata('message'); ?>
             <div class="form-group">
                 <div class="input-group">
