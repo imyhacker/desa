@@ -42,7 +42,7 @@
                                             <ul class="dropdown-menu sub-menu-level1">
                                                 <li><a href="<?php echo base_url('profil/desa'); ?>">Gambaran Umum Desa</a></li>
                                                 <li><a href="<?php echo base_url('profil/sejarah'); ?>">Sejarah Desa</a></li>
-                                                <li><a href="#">Visi dan Misi</a></li>
+                                                <li><a href="<?php echo base_url('profil/vm'); ?>">Visi dan Misi</a></li>
                                                 <!-- <li><a href="#">Potensi Desa</a></li>
                                                 <li><a href="#">Peta Wilayah Desa</a></li> -->
                                             </ul>

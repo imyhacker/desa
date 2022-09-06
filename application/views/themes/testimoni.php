@@ -11,7 +11,7 @@
                 <div class="testimonial-autor">
                     <img src="<?php echo base_url('public/'); ?>img/dummies/testimonial/avatar.ico" alt="" />
                     <h4>Bagirang</h4>
-                    <a href="#">http://randobawagirang.wordpress.com</a>
+                    <a href="#">http://randobawagirang.my.id</a>
                 </div>
             </li>
             <li>
@@ -21,7 +21,7 @@
                 <div class="testimonial-autor">
                     <img src="<?php echo base_url('public/'); ?>img/dummies/testimonial/avatar.ico" alt="" />
                     <h4>Bagirang</h4>
-                    <a href="#">http://randobawagirang.wordpress.com</a>
+                    <a href="#">http://randobawagirang.my.id</a>
                 </div>
             </li>
             <li>
@@ -31,7 +31,7 @@
                 <div class="testimonial-autor">
                     <img src="<?php echo base_url('public/'); ?>img/dummies/testimonial/avatar.ico" alt="" />
                     <h4>Bagirang</h4>
-                    <a href="#">http://randobawagirang.wordpress.com</a>
+                    <a href="#">http://randobawagirang.my.id</a>
                 </div>
             </li>
         </ul>

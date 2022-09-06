@@ -21,7 +21,7 @@
                                 </a> -->
                             </div>
                             <div class="span6">
-                                <img src="<?= base_url('upload_file/images/' . $row['image']); ?>" alt="" class="animated bounceInDown delay1" />
+                                <!-- <img src="<?= base_url('upload_file/images/' . $row['image']); ?>" alt="" class="animated bounceInDown delay1" /> -->
                             </div>
                         </div>
                     </div>
